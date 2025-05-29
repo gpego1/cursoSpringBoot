@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig" isInitGenerateDdl="true">
+    <option name="initGenerateDdl" value="true" />
+    <option name="snapshotDbValue" value="6ef13519-322e-4821-9017-429b1e11b99c" />
+    <option name="snapshotDirValue" value="$PROJECT_DIR$/productsapi/src/main/resources" />
+    <option name="sourceModelValue" value="productsapi:productsapi" />
+    <option name="targetDbValue" value="6ef13519-322e-4821-9017-429b1e11b99c" />
+  </component>
+</project>
